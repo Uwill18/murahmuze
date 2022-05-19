@@ -1,0 +1,24 @@
+{
+  "name": "mm05",
+  "version": "1.0.0",
+  "description": "Music Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uwill18/murahmuze.git"
+  },
+  "author": "Hoshi Holiday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uwill18/murahmuze/issues"
+  },
+  "homepage": "https://github.com/Uwill18/murahmuze#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
